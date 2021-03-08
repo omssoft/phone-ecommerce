@@ -1385,7 +1385,7 @@ span.dot::before {
 
 .testimonial {
     position: relative;
-    background: url("./images/testimonial.jpg") center/cover no-repeat;
+    background: url("../images/testimonial.jpg") center/cover no-repeat;
     height: 50rem;
     padding: 5rem 0;
     z-index: 1;
